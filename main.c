@@ -73,7 +73,7 @@ int main() {
     printf("\nPress Enter to Continue: \n");
 
     while (getchar() != '\n');
-
+    //test for commit
     initialize_matrix(game_matrix);
     do {
         print_table(game_matrix);
