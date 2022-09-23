@@ -1,0 +1,3 @@
+D:/Work/Coding/Projects/C/BubbleBlast/cmake-build-debug/CMakeFiles/BubbleBlast.dir
+D:/Work/Coding/Projects/C/BubbleBlast/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Work/Coding/Projects/C/BubbleBlast/cmake-build-debug/CMakeFiles/rebuild_cache.dir
